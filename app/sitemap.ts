@@ -7,7 +7,7 @@ const sitemap = async (): Promise<MetadataRoute.Sitemap> => {
 
   const blogEntries: MetadataRoute.Sitemap = blogs
     ? blogs.map((b) => ({
-        url: `https://ojasinfo.in/${b.url}`,
+        url: `https://atezz.in/${b.url}`,
         lastModified: new Date(b.updatedAt),
         changeFrequency: "weekly",
         priority: 0.9,
@@ -15,14 +15,14 @@ const sitemap = async (): Promise<MetadataRoute.Sitemap> => {
     : [];
 
   const category: MetadataRoute.Sitemap = Category.map((b) => ({
-    url: `https://ojasinfo.in/${b.value}`,
+    url: `https://atezz.in/${b.value}`,
     lastModified: new Date(),
     changeFrequency: "monthly",
     priority: 0.9,
   }));
 
   const policy: MetadataRoute.Sitemap = footerLinks.map((b) => ({
-    url: `https://ojasinfo.in${b.link}`,
+    url: `https://atezz.in${b.link}`,
     lastModified: new Date(),
     changeFrequency: "monthly",
     priority: 0.9,
@@ -30,7 +30,7 @@ const sitemap = async (): Promise<MetadataRoute.Sitemap> => {
 
   return [
     {
-      url: `https://ojasinfo.in`,
+      url: `https://atezz.in`,
       changeFrequency: "monthly",
       priority: 0.8,
     },

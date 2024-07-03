@@ -27,7 +27,7 @@ export const AuthWrapper = ({ children, headerLabel }: AuthWrapperProps) => {
         <CardHeader>
           <div className="flex w-full flex-col items-center justify-center gap-y-4">
             <h1 className={cn("text-3xl font-semibold", font.className)}>
-              🖥️ OJASINFO
+              🖥️ Atezz
             </h1>
             <p className="text-muted-foreground text-sm">{headerLabel}</p>
           </div>

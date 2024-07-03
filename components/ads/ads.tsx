@@ -79,8 +79,8 @@ export const SmallAd = () => {
   return (
     <ClientWrapper>
       <AdsWrapper
-        id="div-gpt-ad-1719061846219-0"
-        label="/22725519965/300x75"
+        id="div-gpt-ad-1720008983616-0"
+        label="/22989537819/AT_1_300X75"
         size={[300, 75]}
         divSize={{ x: 300, y: 75 }}
       />
@@ -92,8 +92,8 @@ export const LargeAd = () => {
   return (
     <ClientWrapper>
       <AdsWrapper
-        id="div-gpt-ad-1712812433707-0"
-        label="/22725519965/OJS_300X600"
+        id="div-gpt-ad-1720009117089-0"
+        label="/22989537819/AT_1_300X600"
         size={[300, 600]}
         divSize={{ x: 300, y: 600 }}
       />

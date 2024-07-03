@@ -37,37 +37,36 @@ const Terms = () => {
           and Music files
         </h2>
         <p className="w-full text-left">
-          OJASINFO is a metadata-search engine, which mean that different search
-          machines of OJASINFO search in more search engines on the internet.
-          The results that are displayed by OJASINFO as result of a search
-          command of a user, originate from other search engines. OJASINFO shows
-          the source of each result in its result list. It is possible that
-          OJASINFO shows in the search results direct links to files or web
-          pages that contain material that is protected by copyright or other
-          intellectual property rights. However this material can be found and
-          accessed by using the Website, OJASINFO does not and cannot grant its
-          users the permission to download, copy or use this material. The user
-          alone is responsible and liable of the use, copy and / or download of
-          this material. OJASINFO is never responsible or liable for sanctions
-          based on law or regulations of law suits of any kind against the user
-          as result of using search services provided by OJASINFO.
+          Atezz is a metadata-search engine, which mean that different search
+          machines of Atezz search in more search engines on the internet. The
+          results that are displayed by Atezz as result of a search command of a
+          user, originate from other search engines. Atezz shows the source of
+          each result in its result list. It is possible that Atezz shows in the
+          search results direct links to files or web pages that contain
+          material that is protected by copyright or other intellectual property
+          rights. However this material can be found and accessed by using the
+          Website, Atezz does not and cannot grant its users the permission to
+          download, copy or use this material. The user alone is responsible and
+          liable of the use, copy and / or download of this material. Atezz is
+          never responsible or liable for sanctions based on law or regulations
+          of law suits of any kind against the user as result of using search
+          services provided by Atezz.
         </p>
         <h2 className={cn("text-xl font-[600]", poppins.className)}>
-          Trademarks / trade names in advertisement on OJASINFO - Sponsored
-          links{" "}
+          Trademarks / trade names in advertisement on Atezz - Sponsored links{" "}
         </h2>
         <p className="w-full text-left">
-          OJASINFO displays several advertisements on different pages of its
-          website. OJASINFO acknowledges the intellectual property rights of
-          third parties. OJASINFO also displays sponsored links originating from
-          the advertising network of Google (Google AdWords / Adsense), on the
-          pages where the search results are displayed. In case you or your
-          company is of the opinion that a sponsored link or result may not be
-          displayed in the sponsored links of OJASINFO, OJASINFO kindly requests
-          you to inform Google about this, by using this link.
+          Atezz displays several advertisements on different pages of its
+          website. Atezz acknowledges the intellectual property rights of third
+          parties. Atezz also displays sponsored links originating from the
+          advertising network of Google (Google AdWords / Adsense), on the pages
+          where the search results are displayed. In case you or your company is
+          of the opinion that a sponsored link or result may not be displayed in
+          the sponsored links of Atezz, Atezz kindly requests you to inform
+          Google about this, by using this link.
         </p>
         <h2 className={cn("text-xl font-[600]", poppins.className)}>
-          Trademarks / trade names in advertisement on OJASINFO - Other
+          Trademarks / trade names in advertisement on Atezz - Other
           advertisements{" "}
         </h2>
         <p className="w-full text-left">
@@ -75,25 +74,25 @@ const Terms = () => {
           links originating from the advertisement network of Google (Google
           AdWords / AdSense) – infringe upon intellectual property rights that
           belong to you or your company or to which your company can claim
-          rights to, OJASINFO kindly requests you to inform OJASINFO about this
-          via this form. OJASINFO shall assess your complaint and – if necessary
-          – adapt or remove the advertisement within 2 working days after
-          receipt of the complaint.
+          rights to, Atezz kindly requests you to inform Atezz about this via
+          this form. Atezz shall assess your complaint and – if necessary –
+          adapt or remove the advertisement within 2 working days after receipt
+          of the complaint.
         </p>
         <h2 className={cn("text-xl font-[600]", poppins.className)}>
-          Trademarks / trade names in advertisement of OJASINFO on the internet
+          Trademarks / trade names in advertisement of Atezz on the internet
         </h2>
         <p className="w-full text-left">
-          OJASINFO advertises in the internet at several advertisement networks
-          (o.a. Google Adwords, Yahoo! Search Marketing). OJASINFO acknowledges
-          the intellectual property rights of third parties. When you are of the
-          opinion that advertisements of OJASINFO infringe upon intellectual
+          Atezz advertises in the internet at several advertisement networks
+          (o.a. Google Adwords, Yahoo! Search Marketing). Atezz acknowledges the
+          intellectual property rights of third parties. When you are of the
+          opinion that advertisements of Atezz infringe upon intellectual
           property rights that belong to you or your company or to which your
-          company can claim rights to, OJASINFO kindly requests you to inform
-          OJASINFO about this via this form or in writing to Vinden.nl B.V.,
-          Stationsdwarsweg 7, 7461 AR Rijssen. OJASINFO shall assess your
-          complaint and – if necessary – adapt or remove the advertisement
-          within 2 working days after receipt of the complaint.
+          company can claim rights to, Atezz kindly requests you to inform Atezz
+          about this via this form or in writing to Vinden.nl B.V.,
+          Stationsdwarsweg 7, 7461 AR Rijssen. Atezz shall assess your complaint
+          and – if necessary – adapt or remove the advertisement within 2
+          working days after receipt of the complaint.
         </p>
         <Ad2 />
       </div>

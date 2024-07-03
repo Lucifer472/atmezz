@@ -8,7 +8,7 @@ const robots = (): MetadataRoute.Robots => {
         allow: "/",
       },
     ],
-    sitemap: `https://ojasinfo.in/sitemap.xml`,
+    sitemap: `https://atezz.in/sitemap.xml`,
   };
 };
 
